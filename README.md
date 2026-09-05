@@ -14,6 +14,7 @@ Este escuadrón fue probado exitosamente en el desarrollo y estabilización de *
 - 🔒 Detección y blindaje de la brecha de licenciamiento por hardware HWID (`H-02`).
 - 🧪 Creación autónoma de una suite de **40 pruebas automatizadas (100% en verde)**.
 - 🎨 Rediseño integral de la interfaz de usuario al estándar **Fintech Slate & Emerald**.
+- 🧬 Integración de especificaciones formales en **Gherkin (BDD)** y **Mutation Testing (Hardening)** inspiradas en el framework *swarm-forge* de Robert C. Martin (Uncle Bob).
 
 ---
 
